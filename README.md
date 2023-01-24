@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **App Development/ Kotlin in general**
 
-- 📫 How to reach me **millercarson111@gmail.com**
+- 📫 How to reach me **bowlbirdcontact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carson Miller</h1>
+<h1 align="center">Hi, I'm Carson Miller</h1>
 <h3 align="center">aka BowlBird</h3>
 
 - 🔭 I’m currently working on [My Website](https://bowlbird.github.io/)

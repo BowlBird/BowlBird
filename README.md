@@ -1,17 +1,11 @@
 <h1 align="center">Hi, I'm Carson Miller</h1>
 <h3 align="center">aka BowlBird</h3>
 
-- 🔭 I’m currently working on [My Website](https://bowlbird.github.io/)
-
-- 🌱 I’m currently learning **Rust, Godot, Git, and Web Development**
+- 🌱 I’m currently learning **Rust, Godot, Git, and App Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BowlBird](https://github.com/BowlBird)
 
-- 📝 I (will) regularly write articles on [https://bowlbird.github.io/](https://bowlbird.github.io/)
-
-- 💬 Ask me about **App Development/ Kotlin in general**
-
-- 📫 How to reach me **bowlbirdcontact@gmail.com**
+- 📫 How to reach me **bowlbirdcontact@gmail.com** or **millercarson111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

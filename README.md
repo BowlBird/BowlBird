@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Carson Miller</h1>
+<h1 align="center">Hi, I'm Catherine Miller</h1>
 <h3 align="center">aka BowlBird</h3>
 
 - 🌱 I’m currently learning **Rust, Godot, Git, and App Development**

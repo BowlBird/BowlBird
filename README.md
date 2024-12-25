@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BowlBird](https://github.com/BowlBird)
 
-- 📫 How to reach me **bowlbirdcontact@gmail.com** or **millercarson111@gmail.com**
+- 📫 How to reach me **bowlbirdcontact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
